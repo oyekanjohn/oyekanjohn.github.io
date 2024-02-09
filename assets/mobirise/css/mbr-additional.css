@@ -4183,6 +4183,64 @@ a {
 .cid-u3moKhovG7 .mbr-section-btn {
   text-align: left;
 }
+.cid-u3PqBnuuYc {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u3PqBnuuYc .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u3PqBnuuYc .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-u3PqBnuuYc .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-u3PqBnuuYc .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-u3PqBnuuYc .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u3PqBnuuYc .media-content,
+.cid-u3PqBnuuYc .mbr-figure {
+  align-self: center;
+}
+.cid-u3PqBnuuYc .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-u3PqBnuuYc .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-u3PqBnuuYc .mbr-figure {
+    border-radius: 2rem;
+  }
+}
+.cid-u3PqBnuuYc .mbr-section-maintitle {
+  text-align: center;
+}
+.cid-u3PqBnuuYc .mbr-section-title {
+  text-align: left;
+}
+.cid-u3PqBnuuYc .mbr-text,
+.cid-u3PqBnuuYc .mbr-section-btn {
+  text-align: left;
+}
 .cid-u3mphvuuAy {
   padding-top: 3rem;
   padding-bottom: 0rem;
@@ -6455,6 +6513,64 @@ a {
 }
 .cid-u3BDl2s6AY .mbr-text,
 .cid-u3BDl2s6AY .mbr-section-btn {
+  text-align: left;
+}
+.cid-u3Pr3WFlCd {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u3Pr3WFlCd .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u3Pr3WFlCd .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-u3Pr3WFlCd .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-u3Pr3WFlCd .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-u3Pr3WFlCd .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u3Pr3WFlCd .media-content,
+.cid-u3Pr3WFlCd .mbr-figure {
+  align-self: center;
+}
+.cid-u3Pr3WFlCd .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-u3Pr3WFlCd .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-u3Pr3WFlCd .mbr-figure {
+    border-radius: 2rem;
+  }
+}
+.cid-u3Pr3WFlCd .mbr-section-maintitle {
+  text-align: center;
+}
+.cid-u3Pr3WFlCd .mbr-section-title {
+  text-align: left;
+}
+.cid-u3Pr3WFlCd .mbr-text,
+.cid-u3Pr3WFlCd .mbr-section-btn {
   text-align: left;
 }
 .cid-u3OyfUt7Bj {
